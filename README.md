@@ -6,7 +6,7 @@
 <p>
 My passion for computer science got me back on track. 
 
-I was a telecom engineer for Reliance Communication Ltd. from January 2010 to December 2014. I earned my degree in electronics and communication engineering from Haldia Institute of Technology. In an effort to break the norm, I worked for more than 4 years as a travel agency, 2 years as an advertising agent, and 3 years as a textile merchant. Nevertheless, despite my setbacks, I learned a lot about entrepreneurship. During Corona, I experienced huge stock market losses, which inspired me to learn how to code in order to study quant trading. That's where I fell in love with coding.
+I was a telecom engineer for Reliance Communication Ltd. from January 2010 to December 2014. I earned my degree in electronics and communication engineering from Haldia Institute of Technology. In an effort to break the norm, I worked for more than 4 years as a travel agency, 2 years as an advertising agent, and 3 years as a textile merchant. Nevertheless, despite my setbacks, I learned a lot about entrepreneurship. During Corona, I experienced huge stock market losses, which inspired me to learn how to code in order to study quant trading. That's where I fell in love with coding. I'm currently working with Chingu Voyage-45 as a front-end developer.
 
 I'm a participant in the Saylor Academy, Free Code Camp, App Academy Open, and CS50 2023 Bootcamps. From there, I gained a foundational understanding of full-stack web development and computer programming languages including C, C++, Java, Javascript, HTML, CSS, Git, and React. I'm now studying Express.js, MongoDB, Node.js, and npm. 
 
