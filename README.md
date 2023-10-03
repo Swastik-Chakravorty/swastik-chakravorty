@@ -4,9 +4,9 @@
 <hr>
 
 <p>
-My passion for computer science got me back on track. 
+My passion for computer science got me back on track.
 
-I was a telecom engineer for Reliance Communication Ltd. from January 2010 to December 2014. I earned my degree in electronics and communication engineering from Haldia Institute of Technology. In an effort to break the norm, I worked for more than 4 years as a travel agency, 2 years as an advertising agent, and 3 years as a textile merchant. Nevertheless, despite my setbacks, I learned a lot about entrepreneurship. During Corona, I experienced huge stock market losses, which inspired me to learn how to code in order to study quant trading. That's where I fell in love with coding. I'm currently working with Chingu Voyage-45 as a front-end developer.
+I was a telecom engineer for Reliance Communication Ltd. from January 2010 to December 2014. I earned my degree in electronics and communication engineering from Haldia Institute of Technology. In an effort to break the norm, I worked for more than 4 years as a travel agency, 2 years as an advertising agent, and 3 years as a textile merchant. Nevertheless, despite my setbacks, I learned a lot about entrepreneurship. During Corona, I experienced huge stock market losses, which inspired me to learn how to code in order to study quant trading. That's where I fell in love with coding. I'm currently working with Chingu Voyage-46 as a full-stack developer.
 
 I'm a participant in the Saylor Academy, Free Code Camp, App Academy Open, and CS50 2023 Bootcamps. From there, I gained a foundational understanding of full-stack web development and computer programming languages including C, C++, Java, Javascript, HTML, CSS, Git, and React. I'm now studying Express.js, MongoDB, Node.js, and npm. 
 
@@ -14,18 +14,18 @@ In addition, I have been programming alone and with other students to strengthen
 
 In general, my interests include cars, philosophy, technology, and travel. I am self-taught, responsible, creative, persistent, curious, structured, and patient. I enjoy teaching people and working with the community to close the technological divide.
 
-I am a full stack software developer who loves to learn new technologies and frameworks in software development. I am currently looking for job challenges to put my skills at the service.
+I am a full-stack software developer who loves to learn new technologies and frameworks in software development. I am currently looking for job challenges to put my skills to use.
 </p>
 
 - 🔭 I’m currently working on [Conquer Web Template](https://github.com/Swastik-Chakravorty/conquer-web-template)
 
 - 🌱 I’m currently learning **CS50, App Academy Open, Free Code Camp, Saylor Academy**
 
-- 💬 Ask me about **C++, Java, JavaScript**
+- 💬 Ask me about **C++, Java, JavaScript, CSS, HTML**
 
 - 📫 How to reach me **swastik.chakravorty@gmail.com**
 
-- ⚡ Fun fact **I was a telecom engineer, then entrepreneur, then stock market trader and after all these I find my passion in software development. So now, full and finally I'm a Software Engineer.**
+- ⚡ Fun fact **I was a telecom engineer, then an entrepreneur, then a stock market trader, and after all these, I found my passion in software development. So now, finally, I'm a software engineer.**
 
 <hr>
 
